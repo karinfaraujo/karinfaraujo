@@ -165,5 +165,3 @@ Eu estou posicionada para atuar em / I am positioned to work as:
 - Automação com Python & AI / Python & AI Automation  
 
 ---
-
-<
