@@ -7,7 +7,7 @@
 
 Como disse John Elder: *“Aprender com os dados é praticamente e universalmente útil.”* Essa filosofia me guiou na minha transição para a área de Análise de Dados, Ciência de Dados e Inteligência Artificial. Sou curiosa, proativa e analítica, com forte habilidade de comunicação e empatia. Estou sempre buscando aprender e aplicar conhecimento para resolver problemas reais.
 
-Fora do universo dos dados, sou apaixonada por tecnologia, esportes e leitura. Meu maior sonho é viajar e conhecer o mundo, coletando experiências e aprendizados.
+Fora do universo dos dados, sou apaixonada por tecnologia, música, esportes e leitura. Meu maior sonho é viajar e conhecer o mundo, coletando experiências e aprendizados.
 
 ---
 
