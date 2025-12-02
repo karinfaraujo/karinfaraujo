@@ -15,7 +15,7 @@ Fora do universo dos dados, sou apaixonada por tecnologia, música, esportes e l
 
 As John Elder said: *“Learning from data is practically and universally useful.”* This philosophy guided my transition to Data Analytics, Data Science, and Artificial Intelligence. I am curious, proactive, analytical, and have strong communication and empathy skills. I continuously seek to learn and apply knowledge to solve real-world problems.
 
-Outside the data world, I am passionate about technology, sports, and reading. My biggest dream is to travel and explore the world, gathering experiences and learning along the way.
+Outside the data world, I am passionate about technology, music, sports, and reading. My biggest dream is to travel and explore the world, gathering experiences and learning along the way.
 
 ---
 
